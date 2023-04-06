@@ -1,1 +1,4 @@
 # Netflix-Clone
+
+### NETFLIX CLONE USING HTML, CSS, JAVASCRIPT
+
