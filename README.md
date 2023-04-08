@@ -1,8 +1,8 @@
 # Netflix-Clone
 
-<<<<<<< HEAD
-## NETFLIX CLONE USING HTML, CSS, and JQUERY
-=======
-### NETFLIX CLONE USING HTML, CSS AND JQUERY
 
->>>>>>> 56db657abf3acb2f45f98be7aa8265088362c285
+## NETFLIX CLONE USING HTML, CSS, and JQUERY
+"""
+This function is a wrapper around.
+"""
+### NETFLIX CLONE USING HTML, CSS AND JQUERY
