@@ -837,6 +837,9 @@ header#main-header.menu-sticky{
     font-weight: 600;
     color: #fff;
     margin-left: 5px;
+    border-width: 2px;
+    border-color: darkred;
+    border-style: groove;
 
 }
 .slider-inner{
