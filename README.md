@@ -3,6 +3,6 @@
 
 ## NETFLIX CLONE USING HTML, CSS, and JQUERY
 """
-This function is a wrapper around.
+import pythia.core.
 """
 ### NETFLIX CLONE USING HTML, CSS AND JQUERY
