@@ -840,6 +840,7 @@ header#main-header.menu-sticky{
     border-width: 2px;
     border-color: darkred;
     border-style: groove;
+    background-color: #ff0000;
 
 }
 .slider-inner{
@@ -966,7 +967,7 @@ a.text-primary:focus, a.text-primary:hover{
 }
 .w-trailor:hover{
     transition: all 0.5s ease;
-    color: #e50914;
+    color: #fff;
 }
 /* responsiveness *********************** */
 
